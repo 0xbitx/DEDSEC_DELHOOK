@@ -13,7 +13,7 @@ DEDSEC_DELHOOK is a tool designed to thwart malicious actors who utilize webhook
     * git clone https://github.com/0xbitx/DEDSEC_DELHOOK.git
     * cd DEDSEC_DELHOOK
     * chmod +x dedsec_delhook
-    * ./dedsec_discord_delhook
+    * ./dedsec_delhook
 ### TESTED ON FOLLOWING
 
 * Kali Linux 
